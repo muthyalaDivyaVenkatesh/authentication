@@ -1,0 +1,8 @@
+.DealsContainer {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: auto auto auto auto;
+    height:20vh;
+    gap: 10px;
+    padding-left: 20px;
+}

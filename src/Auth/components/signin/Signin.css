@@ -1,0 +1,19 @@
+.SigninContainer {
+    height:100vh;
+    background-image: url('../../../assets/backdrop.jpg');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+     background-color: white !important;
+}
+
+
+.SigninForm {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20vh;   
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}

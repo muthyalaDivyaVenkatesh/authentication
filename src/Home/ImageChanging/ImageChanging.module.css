@@ -1,0 +1,25 @@
+.ImageContainer{
+    height: 55vh;
+    width: 100%;
+    margin: auto;
+    display: block;
+    background-color: white;
+}
+
+
+
+.Image {
+   margin: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.IconStyle {
+    position:absolute;
+    top:42vh;
+    font-size: 60px;
+}
+
+.IconStyleRight {
+    left: 98vw
+}
